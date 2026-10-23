@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Langchain , RAG and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/surajpoddar-ml](https://github.com/surajpoddar-ml)
-
 - 📫 How to reach me **surajpoddar098@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
