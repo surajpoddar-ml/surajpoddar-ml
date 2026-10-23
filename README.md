@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Poddar</h1>
 <h3 align="center">Creating smart web applications with modern AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpoddar-ml&label=Profile%20views&color=0e75b6&style=flat" alt="surajpoddar-ml" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajpoddar-ml" alt="surajpoddar-ml" /></a> </p>
 
 - 🌱 I’m currently learning **Langchain , RAG and Node.js**
 
